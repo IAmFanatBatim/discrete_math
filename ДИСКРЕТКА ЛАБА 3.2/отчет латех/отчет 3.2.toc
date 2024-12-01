@@ -1,0 +1,12 @@
+\babel@toc {russian}{}\relax 
+\contentsline {subsection}{Используемые библиотеки}{3}{section*.3}%
+\contentsline {subsection}{Задание 1}{9}{section*.4}%
+\contentsline {subsection}{Задание 2}{9}{section*.5}%
+\contentsline {subsection}{Задание 3}{12}{section*.7}%
+\contentsline {subsection}{Задание 4}{14}{section*.9}%
+\contentsline {subsection}{Задание 5}{15}{section*.10}%
+\contentsline {subsection}{Задание 6}{17}{section*.12}%
+\contentsline {subsection}{Задание 7}{19}{section*.14}%
+\contentsline {subsection}{Задание 8}{19}{section*.15}%
+\contentsline {subsection}{Задание 9}{22}{section*.17}%
+\contentsline {subsection}{Задание 10}{23}{section*.19}%

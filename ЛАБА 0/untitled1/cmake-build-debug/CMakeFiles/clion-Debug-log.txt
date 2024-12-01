@@ -1,0 +1,12 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\sovac\Desktop\дискретная математика\ЛАБА 0\untitled1" -B "C:\Users\sovac\Desktop\дискретная математика\ЛАБА 0\untitled1\cmake-build-debug"
+CMake Error at CMakeLists.txt:8 (add_subdirectory):
+  add_subdirectory given source "algorithms" which is not an existing
+  directory.
+
+
+CMake Error at CMakeLists.txt:9 (add_subdirectory):
+  add_subdirectory given source "data_structures" which is not an existing
+  directory.
+
+
+-- Configuring incomplete, errors occurred!

@@ -1,0 +1,6 @@
+#ifndef ARRAY_INPUT_OUTPUT_LIBRARY_H
+#define ARRAY_INPUT_OUTPUT_LIBRARY_H
+
+void hello(void);
+
+#endif //ARRAY_INPUT_OUTPUT_LIBRARY_H

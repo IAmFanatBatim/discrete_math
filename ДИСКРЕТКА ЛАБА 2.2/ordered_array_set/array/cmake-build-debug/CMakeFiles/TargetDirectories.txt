@@ -1,0 +1,3 @@
+C:/Users/Анна/Desktop/сонины программы/second_semester/WorksOfSecondSemester/libs/algorithms/array/cmake-build-debug/CMakeFiles/array.dir
+C:/Users/Анна/Desktop/сонины программы/second_semester/WorksOfSecondSemester/libs/algorithms/array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Анна/Desktop/сонины программы/second_semester/WorksOfSecondSemester/libs/algorithms/array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
