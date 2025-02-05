@@ -1,3 +1,0 @@
-C:/Users/sovac/Desktop/discrete_math/ДИСКРЕТКА ЛАБА 4.3/graphs/cmake-build-debug/CMakeFiles/graphs.dir
-C:/Users/sovac/Desktop/discrete_math/ДИСКРЕТКА ЛАБА 4.3/graphs/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sovac/Desktop/discrete_math/ДИСКРЕТКА ЛАБА 4.3/graphs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
